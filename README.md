@@ -4,9 +4,9 @@ Proyek Tugas Kelompok — Mata Kuliah Pemrograman Fungsional
 Program Studi Informatika, Universitas Muhammadiyah Malang
 
 **Anggota Kelompok X:**
-1. Nama Anggota 1 (NIM)
-2. Nama Anggota 2 (NIM)
-3. Nama Anggota 3 (NIM)
+1. Muhammad Mufti Kintaro (202410370110062)
+2. Geraldo Agha Mahendra (202410370110059)
+3. Berliano Putra Kukuh W. (202410370110373)
 
 ---
 
